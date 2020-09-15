@@ -13,8 +13,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    solteiro, 28 anos
+    location: Liberdade, Belo Horizonte
     email: candidotomaz@gmail.com
     phone: +55 31 9963-1367
+    whatsapp: 31 9963-1367
     website: #do not add http://
     linkedin: candidotomaz
     github: 
