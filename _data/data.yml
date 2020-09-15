@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+    sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
@@ -51,10 +51,8 @@ sidebar:
 career-profile:
     title: OBJETIVO 
     summary: |
-    
  Priorizar o trabalho em equipe e o alcance de metas definidas pela estratégia da organização
  com fácil adaptação e disposição a assumir novos desafios agregando na trajetória profissional.
-
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -170,7 +168,7 @@ skills:
 
     toolset:
       - name: Power BI
-        level: 
+        level:
 
       - name: SEO
         level:
@@ -179,4 +177,4 @@ skills:
         level:
 
       - name: Office
-        level: 
+        level:
