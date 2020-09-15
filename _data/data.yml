@@ -49,6 +49,19 @@ sidebar:
 
       - item: Análise de Dados
         link:
+        
+    education:
+    - degree: Bacharelado em Relações Internacionais
+      university: Pontifícia Universidade Católica de Minas Gerais
+      time: 2010 - 2013
+      
+    - degree: Bacharelado em Administração
+      university: Universidade Federal de Minas Gerais
+      time: 2016 - presente
+      
+    - degree: Fontys Hogescholen
+      university: International Business Consultancy
+      time: 2020
 
 career-profile:
     title: OBJETIVO
