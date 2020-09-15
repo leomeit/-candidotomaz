@@ -163,23 +163,17 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: SKILLS
 
     toolset:
-      - name: Python & Django
+      - name: Power BI
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SEO
         level: 98%
 
-      - name: Angular
+      - name: Análise de Dados
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Office
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
