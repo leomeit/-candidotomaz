@@ -170,13 +170,13 @@ skills:
 
     toolset:
       - name: Power BI
-        level: 98%
+        level: 
 
       - name: SEO
-        level: 98%
+        level:
 
       - name: Análise de Dados
-        level: 98%
+        level:
 
       - name: Office
-        level: 85%
+        level:
