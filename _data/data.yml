@@ -7,33 +7,36 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Cândido Tomaz de Barcelos Neto
+    tagline: Gestão Administrativa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: candidotomaz@live.com
+    phone: +55 31 9963-1367
+    website: #do not add http://
+    linkedin: candidotomaz
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@candidotomaz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Português
+        level: Nativo
 
-      - idiom: French
-        level: Professional
+      - idiom: Inglês
+        level: Fluente
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Espanhol 
+        level: Intermediário
+        
+      - idiom: Francês 
+        level: Intermediário
 
     interests:
       - item: Climbing
