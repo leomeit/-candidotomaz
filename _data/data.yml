@@ -58,20 +58,18 @@ career-profile:
         Priorizar o trabalho em equipe e o alcance de metas definidas pela estratégia da organização
         com fácil adaptação e disposição a assumir novos desafios agregando na trajetória profissional.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bacharelado em Relações Internacionais
+      university: Pontifícia Universidade Católica de Minas Gerais
+      time: 2010 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematic
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bacharelado em Administração
+      university: Universidade Federal de Minas Gerais
+      time: 2016 - presente
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
