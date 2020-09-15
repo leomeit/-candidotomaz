@@ -50,8 +50,12 @@
 
 career-profile:
     title: OBJETIVO 
-    summary: |Priorizar o trabalho em equipe e o alcance de metas definidas pela estratégia da organização
-com fácil adaptação e disposição a assumir novos desafios agregando na trajetória profissional.
+    summary: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 education:
     - degree: MSc in Computer Science
       university: University of London
