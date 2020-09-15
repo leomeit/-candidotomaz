@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     details: Liberdade, Belo Horizonte
     email: candidotomaz@gmail.com
-    phone: +55 31 9963-1367
+    phone: (31) 9963-1367
     website: #do not add http://
     linkedin: candidotomaz
     github: 
@@ -59,8 +59,8 @@ sidebar:
       university: Universidade Federal de Minas Gerais
       time: 2016 - presente
       
-    - degree: Fontys Hogescholen
-      university: International Business Consultancy
+    - degree: International Business Consultancy
+      university: Fontys Hogescholen
       time: 2020 - 2020
 
 career-profile:
@@ -81,6 +81,17 @@ education:
     - degree: Bacharelado em Administração
       university: Universidade Federal de Minas Gerais
       time: 2016 - presente
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: International Business Consultancy
+      university: Fontys Hogescholen
+      time: 2020 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -175,19 +186,3 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: SKILLS
-
-    toolset:
-      - name: Power BI
-        level:
-
-      - name: SEO
-        level:
-
-      - name: Análise de Dados
-        level:
-
-      - name: Office
-        level:
