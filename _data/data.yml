@@ -114,7 +114,6 @@ projects:
 
 publications:
     title: CERTIFICADOS
-    intro: |
     papers:
       - title: Fundamentos da Experiência do Cliente
         link: "#"
