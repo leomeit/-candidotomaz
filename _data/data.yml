@@ -91,17 +91,17 @@ publications:
     title: CERTIFICADOS
     papers:
       - title: Fundamentos da Experiência do Cliente
-        link: "#"
+        link: "assets/fdeccliente.pdf"
         authors: Track.co
         conference: julho de 2020
 
       - title: Inbound Marketing
-        link: "#"
+        link: "assets/inboundmarketing.pdf"
         authors: Rock Content
         conference: julho de 2020
 
       - title: Marketing de Conteúdo
-        link: "#"
+        link: "assets/marketingconteudo.pdf"
         authors: Rock Content
         conference: julho de 2020
         
@@ -110,5 +110,5 @@ publications:
         authors: Grupo Voitto
         
       - title: White Belt em Lean Seis Sigma
-        link: "#"
+        link: "assets/whitebeltleanseissigma.pdf"
         authors: Grupo Voitto
