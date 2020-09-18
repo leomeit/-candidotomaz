@@ -63,7 +63,9 @@ education:
     - degree: Bacharelado em Administração
       university: Universidade Federal de Minas Gerais
       time: 2016 - presente
-      details:          - Com graduação em novembro/2020.
+      details: |
+          - Com graduação em novembro/2020.
+      details:
     - degree: Intercâmbio de International Business Consultancy
       university: Fontys Hogescholen
       time: 2020 - 2020
