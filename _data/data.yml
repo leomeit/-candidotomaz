@@ -9,16 +9,16 @@ sidebar:
 
     # Profile information
     name: Cândido Tomaz de Barcelos Neto
-    tagline: Gestão Administrativa
+    tagline: 29 anos, Liberdade, Belo Horizonte
     avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    details: Liberdade, Belo Horizonte
+    
     email: candidotomaz@gmail.com
     phone: (31) 9963-1367
     website: #do not add http://
     linkedin: candidotomaz
-    github: 
+    github: Liberdade, Belo Horizonte
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -63,7 +63,7 @@ education:
       university: Universidade Federal de Minas Gerais
       time: 2016 - presente
       details: |
-      Com graduação em novembro/2020.
+        Com graduação em novembro/2020.
     - degree: Intercâmbio de International Business Consultancy
       university: Fontys Hogescholen
       time: 2020 - 2020
