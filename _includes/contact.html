@@ -1,9 +1,18 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
     
-    <p>29 anos, solteiro</p>
-    <p>Liberdade, Belo Horizonte</p>
-
+    {% if sidebar.details %}
+    <li class="details"><i class="fas fa-user"></i>
+      {{ sidebar.details }}
+    </li>
+    {% endif %}
+    
+    {% if sidebar.location %}
+    <li class="location"><i class="fas fa-map-marker"></i></i>
+    {{ sidebar.location }}
+    </li>
+    {% endif %}
+    
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
