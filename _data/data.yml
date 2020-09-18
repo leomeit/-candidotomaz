@@ -115,9 +115,6 @@ projects:
 publications:
     title: CERTIFICADOS
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Fundamentos da Experiência do Cliente
         link: "#"
@@ -132,4 +129,14 @@ publications:
       - title: Marketing de Conteúdo
         link: "#"
         authors: Rock Content
+        conference: julho de 2020
+        
+      - title: Introdução ao Agile Scrum
+        link: "#"
+        authors: Grupo Voitto
+        conference: julho de 2020
+        
+      - title: White Belt em Lean Seis Sigma
+        link: "#"
+        authors: Grupo Voitto
         conference: julho de 2020
