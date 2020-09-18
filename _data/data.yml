@@ -26,6 +26,11 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    projects:
+    title: 29 anos
+    intro: >
+      Liberdade, Belo Horizonte
 
     languages:
       - idiom: Inglês
