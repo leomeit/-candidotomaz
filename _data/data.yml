@@ -57,39 +57,7 @@ sidebar:
       - item: Análise de Dados
         link:
         
-career-profile:
-    title: OBJETIVO
-    summary: |
-        Focar na priorização do trabalho em equipe e o alcance de metas definidas pela estratégia da organização.
-        Com perfil de fácil adaptação e disposição para assumir novos desafio dentro da trajetória profissional.
-education:
-    - degree: Bacharelado em Relações Internacionais
-      university: Pontifícia Universidade Católica de Minas Gerais
-      time: 2010 - 2013
-    - degree: Bacharelado em Administração
-      university: Universidade Federal de Minas Gerais
-      time: 2016 - conclusão em novembro de 2020
-      details:
-    - degree: Intercâmbio Acadêmico em International Business Consultancy
-      university: Fontys Hogescholen
-      time: 2020 - 2020
-experiences:
-    - role: Recepcionista Bilingue
-      time: 2013 - 2014
-      company: Centro Cultural Banco do Brasil
-      details: |
-          - Recepcionar e orientar o público que frequenta o local acerca da programação e localização dentro do edifício, bem como programação do Circuito Cultural Praça da Liberdade;
-          - Acompanhar visitantes estrangeiros pelo espaço, quando solicitado;
-          - Orientar visitantes dentro das galerias.
-    - role: Assistente Administrativo
-      time: 2015 - 2020
-      company: Sesc em Minas Gerais
-      details: |
-          - Realizar trabalho administrativo relacionado às rotinas administrativas, como emissão de notas fiscais, recebimento e envio de correspondências, manutenção dos dados, cadastros e planilhas da empresa;
-          - Atuar como Correspondente de RH;
-          - Controlar a frota de veículos do Sesc em Minas Gerais, acompanhando as manutenções preventivas e corretivas, aluguéis, consumo de combustível, pneu, controle de táxi, sinistros e pagamento de multas;
-          - Realizar demandas no setor Financeiro, emitindo e acompanhando notas para pagamento.
-publications:
+    publications:
     title: CERTIFICADOS
     papers:
       - title: Fundamentos da Experiência do Cliente
@@ -114,3 +82,62 @@ publications:
       - title: White Belt em Lean Seis Sigma
         link: "assets/whitebeltleanseissigma.pdf"
         authors: Grupo Voitto
+ 
+        
+career-profile:
+    title: OBJETIVO
+    summary: |
+        Focar na priorização do trabalho em equipe e o alcance de metas definidas pela estratégia da organização.
+        Com perfil de fácil adaptação e disposição para assumir novos desafio dentro da trajetória profissional.
+education:
+    - degree: Bacharelado em Administração
+      university: Universidade Federal de Minas Gerais
+      time: 2016 - conclusão em novembro de 2020
+    - degree: Bacharelado em Relações Internacionais
+      university: Pontifícia Universidade Católica de Minas Gerais
+      time: 2010 - 2013
+    - degree: Intercâmbio Acadêmico em International Business Consultancy
+      university: Fontys Hogescholen
+      time: 2020 - 2020
+experiences:
+    - role: Assistente Administrativo
+      time: 2015 - 2020
+      company: Sesc em Minas Gerais
+      details: |
+          - Realizar trabalho administrativo relacionado às rotinas administrativas, como emissão de notas fiscais, recebimento e envio de correspondências, manutenção dos dados, cadastros e planilhas da empresa;
+          - Atuar como Correspondente de RH;
+          - Controlar a frota de veículos do Sesc em Minas Gerais, acompanhando as manutenções preventivas e corretivas, aluguéis, consumo de combustível, pneu, controle de táxi, sinistros e pagamento de multas;
+          - Realizar demandas no setor Financeiro, emitindo e acompanhando notas para pagamento.
+    - role: Recepcionista Bilingue
+      time: 2013 - 2014
+      company: Centro Cultural Banco do Brasil
+      details: |
+          - Recepcionar e orientar o público que frequenta o local acerca da programação e localização dentro do edifício, bem como programação do Circuito Cultural Praça da Liberdade;
+          - Acompanhar visitantes estrangeiros pelo espaço, quando solicitado;
+          - Orientar visitantes dentro das galerias.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
