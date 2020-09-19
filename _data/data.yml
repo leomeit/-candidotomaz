@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     
-    age: 29 anos, solteiro
+    age: 28 anos, solteiro
     location: Liberdade, Belo Horizonte
     email: candidotomaz@gmail.com
     phone: (31) 9963-1367
@@ -29,11 +29,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-    projects:
-    title: 29 anos
-    intro: >
-      Liberdade, Belo Horizonte
-
     languages:
       - idiom: Inglês
         level: Fluente
@@ -117,10 +112,7 @@ experiences:
           - Orientar visitantes dentro das galerias.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
       - title: Velocity
         link: "#hook"
@@ -141,3 +133,29 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+    publications:
+    title: CERTIFICADOS
+    papers:
+      - title: Fundamentos da Experiência do Cliente
+        link: "assets/fdeccliente.pdf"
+        authors: Track.co
+        conference: julho de 2020
+
+      - title: Inbound Marketing
+        link: "assets/inboundmarketing.pdf"
+        authors: Rock Content
+        conference: julho de 2020
+
+      - title: Marketing de Conteúdo
+        link: "assets/marketingconteudo.pdf"
+        authors: Rock Content
+        conference: julho de 2020
+        
+      - title: Introdução ao Agile Scrum
+        link: "assets/agilescrum.pdf"
+        authors: Grupo Voitto
+        
+      - title: White Belt em Lean Seis Sigma
+        link: "assets/whitebeltleanseissigma.pdf"
+        authors: Grupo Voitto
