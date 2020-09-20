@@ -1,5 +1,21 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
+  {% if site.data.data.sidebar.publications %}
+  <div class="publications-container container-block">
+    
+    <h2 class="container-block-title">
+      CERTIFICADOS
+    </h2>
+
+    {% for graduation in publications %}
+    <div class="item">
+      <h4 class="link">{{ publication.link }}</h4>
+      <h5 class="authors">{{ publication.authors }}</h5>
+      <div class="conference">{{ publication.conference }}</div>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
 <section class="section publications-section">
 
   <h2 class="section-title">
