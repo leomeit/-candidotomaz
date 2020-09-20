@@ -51,34 +51,7 @@ sidebar:
 
       - item: Análise de Dados
         link:    
-        
-   publications:
-    title: CERTIFICADOS
-    papers:
-      - title: Fundamentos da Experiência do Cliente
-        link: "assets/fdeccliente.pdf"
-        authors: Track.co
-        conference: julho de 2020
-
-      - title: Inbound Marketing
-        link: "assets/inboundmarketing.pdf"
-        authors: Rock Content
-        conference: julho de 2020
-
-      - title: Marketing de Conteúdo
-        link: "assets/marketingconteudo.pdf"
-        authors: Rock Content
-        conference: julho de 2020
-        
-      - title: Introdução ao Agile Scrum
-        link: "assets/agilescrum.pdf"
-        authors: Grupo Voitto
-        
-      - title: White Belt em Lean Seis Sigma
-        link: "assets/whitebeltleanseissigma.pdf"
-        authors: Grupo Voitto
-
-                       
+                              
 career-profile:
     title: OBJETIVO
     summary: |
@@ -133,3 +106,30 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+publications:
+    title: CERTIFICADOS
+    papers:
+      - title: Fundamentos da Experiência do Cliente
+        link: "assets/fdeccliente.pdf"
+        authors: Track.co
+        conference: julho de 2020
+
+      - title: Inbound Marketing
+        link: "assets/inboundmarketing.pdf"
+        authors: Rock Content
+        conference: julho de 2020
+
+      - title: Marketing de Conteúdo
+        link: "assets/marketingconteudo.pdf"
+        authors: Rock Content
+        conference: julho de 2020
+        
+      - title: Introdução ao Agile Scrum
+        link: "assets/agilescrum.pdf"
+        authors: Grupo Voitto
+        
+      - title: White Belt em Lean Seis Sigma
+        link: "assets/whitebeltleanseissigma.pdf"
+        authors: Grupo Voitto
+
