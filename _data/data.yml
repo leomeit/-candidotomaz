@@ -17,7 +17,7 @@ sidebar:
     age: 28 anos, solteiro
     location: Liberdade, Belo Horizonte
     email: candidotomaz@gmail.com
-    phone: (31) 9963-1367
+    phone: (31) 99963-1367
     website: #do not add http://
     linkedin: candidotomaz
     github: 
@@ -116,5 +116,5 @@ projects:
       - title: Intercâmbio Cultural de Trabalho e Estudo    
         tagline: Atlas Language School em Dublin, Irlanda
 
-      - title: Trabalho Voluntário na MINIONU
+      - title: Trabalho Voluntário no MINIONU
         tagline: Através da PUC, atuando como voluntário de Logística no poio geral à organização do evento e, sobretudo, nas atividades desenvolvidas para montagem e desmontagem do MINIONU; auxílio e recepção dos participantes.
