@@ -78,6 +78,38 @@ publications:
         link: "assets/whitebeltleanseissigma.pdf"
         authors: Grupo Voitto
 
+      - title: Workshop VBA
+        link: "assets/workshopvba.pdf"
+        authors: SEQ UNESP
+        
+      - title: Introdução ao Costumer Success
+        link: "assets/introducaoaocostumesuccess.pdf"
+        authors: RD University
+        
+      - title: Introdução às OKRs
+        link: "assets/introducaoasokrs.pdf"
+        authors: HR.Rocks! Academy
+        
+      - title: Master Power BI - De A à Z
+        link: "assets/masterpowerbi.pdf"
+        authors: Udemy
+        
+      - title: DevCamp Live 2020
+        link: "assets/devcamplive2020.pdf"
+        authors: X Dextra/Mutant
+        
+      - title: Data Universe
+        link: "assets/datauniverse.pdf"
+        authors: IGTI
+        
+      - title: Atendimento ao Cliente
+        link: "assets/atendimentoaocliente.pdf"
+        authors: SEBRAE
+        
+      - title: Agile Project Management
+        link: "assets/agileprojectmanagement.pdf"
+        authors: IT Masters
+        
 career-profile:
     title: OBJETIVO
     summary: |
