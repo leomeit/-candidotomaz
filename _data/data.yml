@@ -55,10 +55,63 @@ sidebar:
 publications:
     title: CERTIFICADOS
     papers:
+      - title: Agile Project Management
+        link: "assets/agileprojectmanagement.pdf"
+        authors: IT Masters
+        conference: novembro de 2020
+        
+      - title: Introdução ao Costumer Success
+        link: "assets/introducaoaocostumesuccess.pdf"
+        authors: RD University
+        conference: novembro de 2020
+        
+      - title: Introdução às OKRs
+        link: "assets/introducaoasokrs.pdf"
+        authors: HR.Rocks! Academy 
+        conference: novembro de 2020
+        
+      - title: Atendimento ao Cliente
+        link: "assets/atendimentoaocliente.pdf"
+        authors: SEBRAE
+        conference: outubro de 2020
+        
+      - title: Master Power BI - De A à Z
+        link: "assets/masterpowerbi.pdf"
+        authors: Udemy
+        conference: outubro de 2020
+        
+      - title: Workshop VBA
+        link: "assets/workshopvba.pdf"
+        authors: outubro de 2020
+        
+      - title: Workshop Data Universe
+        link: "assets/datauniverse.pdf"
+        authors: IGTI
+        conference: outubro de 2020
+        
+      - title: Introdução ao Agile Scrum
+        link: "assets/agilescrum.pdf"
+        authors: Grupo Voitto
+        conference: setembro de 2020
+        
+      - title: White Belt em Lean Seis Sigma
+        link: "assets/whitebeltleanseissigma.pdf"
+        authors: Grupo Voitto
+        conference: setembro de 2020
+        
+      - title: DevCamp Live 2020
+        link: "assets/devcamplive2020.pdf"
+        authors: X Dextra/Mutant
+        conference: setembro de 2020
+        
+      - title: Microsoft Excel 2016 - avançado
+        authors: Fundação Bradesco
+        conference: agosto de 2020
+      
       - title: Fundamentos da Experiência do Cliente
         link: "assets/fdeccliente.pdf"
         authors: Track.co
-        conference: julho de 2020
+        conference: julho de 2020             
 
       - title: Inbound Marketing
         link: "assets/inboundmarketing.pdf"
@@ -69,47 +122,7 @@ publications:
         link: "assets/marketingconteudo.pdf"
         authors: Rock Content
         conference: julho de 2020
-        
-      - title: Introdução ao Agile Scrum
-        link: "assets/agilescrum.pdf"
-        authors: Grupo Voitto
-        
-      - title: White Belt em Lean Seis Sigma
-        link: "assets/whitebeltleanseissigma.pdf"
-        authors: Grupo Voitto
-
-      - title: Workshop VBA
-        link: "assets/workshopvba.pdf"
-        authors: SEQ UNESP
-        
-      - title: Introdução ao Costumer Success
-        link: "assets/introducaoaocostumesuccess.pdf"
-        authors: RD University
-        
-      - title: Introdução às OKRs
-        link: "assets/introducaoasokrs.pdf"
-        authors: HR.Rocks! Academy
-        
-      - title: Master Power BI - De A à Z
-        link: "assets/masterpowerbi.pdf"
-        authors: Udemy
-        
-      - title: DevCamp Live 2020
-        link: "assets/devcamplive2020.pdf"
-        authors: X Dextra/Mutant
-        
-      - title: Data Universe
-        link: "assets/datauniverse.pdf"
-        authors: IGTI
-        
-      - title: Atendimento ao Cliente
-        link: "assets/atendimentoaocliente.pdf"
-        authors: SEBRAE
-        
-      - title: Agile Project Management
-        link: "assets/agileprojectmanagement.pdf"
-        authors: IT Masters
-        
+                
 career-profile:
     title: OBJETIVO
     summary: |
