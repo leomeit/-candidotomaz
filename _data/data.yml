@@ -104,7 +104,8 @@ publications:
         authors: X Dextra/Mutant
         conference: setembro de 2020
         
-      - title: Microsoft Excel 2016 - avançado
+      - title: Microsoft Excel - avançado
+        link: "assets/microsoftexcel.pdf"
         authors: Fundação Bradesco
         conference: agosto de 2020
       
