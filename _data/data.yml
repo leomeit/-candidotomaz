@@ -58,7 +58,7 @@ sidebar:
 publications:
     title: CERTIFICADOS
     papers:
-    secaoa:      - title: Agile Project Management <br> teste
+       - title: Agile Project Management <br> teste
         link: "assets/agileprojectmanagement.pdf"
         authors: IT Masters
         conference: novembro de 2020
@@ -91,7 +91,8 @@ publications:
         link: "assets/datauniverse.pdf"
         authors: IGTI
         conference: outubro de 2020   
-    secaob:      - title: Introdução ao Agile Scrum
+
+      - title: Introdução ao Agile Scrum
         link: "assets/agilescrum.pdf"
         authors: Grupo Voitto
         conference: setembro de 2020
