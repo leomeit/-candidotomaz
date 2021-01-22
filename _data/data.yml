@@ -58,7 +58,6 @@ sidebar:
 publications:
     title: CERTIFICADOS
     papers:
-    esquerda:
       - title: Agile Project Management <br> teste
         link: "assets/agileprojectmanagement.pdf"
         authors: IT Masters
@@ -93,7 +92,6 @@ publications:
         authors: IGTI
         conference: outubro de 2020   
         
-    direita:
       - title: Introdução ao Agile Scrum
         link: "assets/agilescrum.pdf"
         authors: Grupo Voitto
