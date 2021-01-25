@@ -17,8 +17,6 @@
   {% endif %}
 
   {% for publication in publications.papers %}
-  <div class="publication-esquerda">{{ publication.esquerda }}</div>
-  <div class="publication-direita">{{ publication.direita }}</div>
   <div class="item">
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
