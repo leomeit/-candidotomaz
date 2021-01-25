@@ -58,7 +58,7 @@ sidebar:
 publications:
     title: CERTIFICADOS
     papers:
-      - title: Agile Project Management <br> teste
+      - title: Agile Project Management
         link: "assets/agileprojectmanagement.pdf"
         authors: IT Masters
         conference: novembro de 2020
