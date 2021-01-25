@@ -15,7 +15,7 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
-
+<div class="certificados">
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
@@ -27,7 +27,7 @@
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
-  
+  </div>
    <div class="level-bar">
    <div class="level-bar-inner" data-level="{{ publication.level }}">
     </div>
