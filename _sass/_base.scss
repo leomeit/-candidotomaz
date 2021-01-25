@@ -218,17 +218,12 @@ p {
         font-weight: 400;
         color: $text-color;
         margin-bottom: 1px;
+        float: right;
     }
     .publication-authors {
         font-style: italic;
         color: #4b6a78;
         margin-bottom: 1px;
-    }
-    .publication-esquerda {
-        float: left;
-    }
-    .publication-direita {
-        float: right;
     }
     .publications-section {
         .intro {
